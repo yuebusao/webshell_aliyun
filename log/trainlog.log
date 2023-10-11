@@ -1,0 +1,56 @@
+2023-09-28 11:06:13,237 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:199] - INFO: 提取特征中
+2023-09-28 11:07:23,873 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:199] - INFO: 提取特征中
+2023-09-28 11:11:09,064 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:212] - INFO: 特征提取完毕
+2023-09-28 11:11:17,863 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py[line:320] - DEBUG: matplotlib data path: C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\mpl-data
+2023-09-28 11:11:17,870 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py[line:320] - DEBUG: CONFIGDIR=C:\Users\Administrator\.matplotlib
+2023-09-28 11:11:17,872 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py[line:1494] - DEBUG: interactive is False
+2023-09-28 11:11:17,873 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py[line:1495] - DEBUG: platform is win32
+2023-09-28 11:11:17,957 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\__init__.py[line:320] - DEBUG: CACHEDIR=C:\Users\Administrator\.matplotlib
+2023-09-28 11:11:17,960 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\font_manager.py[line:1543] - DEBUG: Using fontManager instance from C:\Users\Administrator\.matplotlib\fontlist-v330.json
+2023-09-28 11:12:05,053 - C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\pyplot.py[line:339] - DEBUG: Loaded backend tkagg version 8.6.
+2023-09-28 11:19:12,653 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:199] - INFO: 提取特征中
+2023-09-28 11:20:50,056 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:199] - INFO: 提取特征中
+2023-09-28 11:21:39,992 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:199] - INFO: 提取特征中
+2023-09-28 11:23:30,602 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:212] - INFO: 特征提取完毕
+2023-09-28 11:23:30,653 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:244] - INFO: 正在训练模型
+2023-09-28 11:25:10,930 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:248] - INFO: all.model has been saved to ../model/all.model
+2023-09-28 11:25:11,303 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:253] - INFO: y_pred:[1. 0. 0. ... 0. 0. 0.]
+2023-09-28 11:25:11,304 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:254] - INFO: test_target:[1. 0. 0. ... 0. 0. 0.]
+2023-09-28 11:25:11,310 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:256] - INFO: Precision:0.965
+2023-09-28 11:25:11,315 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:257] - INFO: Recall:0.935
+2023-09-28 11:25:11,323 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:258] - INFO: [[5393   44]
+ [  86 1228]]
+2023-09-28 11:25:11,323 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:260] - INFO: features_len:13
+2023-10-08 14:48:12,391 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:218] - INFO: 正在训练模型
+2023-10-08 14:49:50,348 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:222] - INFO: model has been saved to ../model/php_pred.model
+2023-10-08 14:49:50,803 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:258] - INFO: y_pred:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 14:49:50,803 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:259] - INFO: test_target:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 14:49:50,810 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:261] - INFO: Precision:0.969
+2023-10-08 14:49:50,817 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:262] - INFO: Recall:0.936
+2023-10-08 14:49:50,827 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:263] - INFO: [[5398   39]
+ [  84 1230]]
+2023-10-08 14:49:50,827 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:265] - INFO: features_len:0
+2023-10-08 15:09:21,412 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:219] - INFO: 模型已存在，自动加载模型ing
+2023-10-08 15:09:22,412 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:282] - INFO: y_pred:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:22,412 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:283] - INFO: test_target:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:22,416 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:285] - INFO: Precision:0.969
+2023-10-08 15:09:22,421 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:286] - INFO: Recall:0.936
+2023-10-08 15:09:22,426 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:287] - INFO: [[5398   39]
+ [  84 1230]]
+2023-10-08 15:09:22,427 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:289] - INFO: features_len:0
+2023-10-08 15:09:28,588 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:219] - INFO: 模型已存在，自动加载模型ing
+2023-10-08 15:09:29,559 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:282] - INFO: y_pred:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:29,559 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:283] - INFO: test_target:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:29,564 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:285] - INFO: Precision:0.969
+2023-10-08 15:09:29,568 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:286] - INFO: Recall:0.936
+2023-10-08 15:09:29,574 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:287] - INFO: [[5398   39]
+ [  84 1230]]
+2023-10-08 15:09:29,574 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:289] - INFO: features_len:0
+2023-10-08 15:09:43,525 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:219] - INFO: 模型已存在，自动加载模型ing
+2023-10-08 15:09:44,505 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:282] - INFO: y_pred:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:44,505 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:283] - INFO: test_target:[1. 0. 0. ... 0. 0. 0.]
+2023-10-08 15:09:44,510 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:285] - INFO: Precision:0.969
+2023-10-08 15:09:44,514 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:286] - INFO: Recall:0.936
+2023-10-08 15:09:44,520 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:287] - INFO: [[5398   39]
+ [  84 1230]]
+2023-10-08 15:09:44,520 - F:\webshell检测\AMWD_2022_WEBSHELL\online_version\php.py[line:289] - INFO: features_len:0
